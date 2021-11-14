@@ -1,0 +1,35 @@
+nav {
+	background-color: #A0A0A0;
+	border: 1px solid black;
+
+}
+
+.main_body {
+	background-color: #A0A0A0;
+	width: 90%
+}
+
+.title {
+	margin-bottom: : 10px;
+}
+
+.heading_name {
+	margin-bottom: 50px;
+}
+
+.navbar-brand {
+	font-weight: bold;
+}
+
+#navbarTogglerDemo03 {
+	border: 1px solid black;
+}
+
+.nav-item {
+	padding: 4px;
+}
+
+hr {
+	margin: 0px;
+	background: black;
+}
